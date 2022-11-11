@@ -1,0 +1,70 @@
+:root {
+  --color-fg: #011627ff;
+  --color-bg: #f6f7f8ff;
+  --color-theme: #20a4f3ff;
+  --color-red: #ff3366ff;
+  --color-light: #2ec4b6ff;
+  --font-std-size: 16px;
+}
+
+body {
+  padding: 50px;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+  font: var(--font-std-size) Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: var(--color-light);
+}
+
+button {
+  outline: none;
+  border: none;
+  border-radius: 0;
+  background-color: var(--color-light);
+  color: var(--color-fg);
+  font-size: var(--font-std-size);
+}
+button:hover {
+  background-color: var(--color-red);
+}
+
+input {
+  outline: none;
+  border: none;
+  background-color: var(--color-theme);
+  color: var(--color-fg);
+  font-size: var(--font-std-size);
+}
+
+/* Classes */
+/* Definition */
+.definition {
+  padding: var(--font-std-size);
+  border: 5px var(--color-theme) solid;
+}
+.definition div {
+  border-left: var(--font-std-size) var(--color-light) solid;
+}
+.definition h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--color-light);
+}
+.definition div p {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: var(--font-std-size);
+}
+/* Search bar */
+.search-bar {
+  margin: auto;
+}
+.search-bar button {
+  padding: var(--font-std-size);
+}
+.search-bar input {
+  padding: var(--font-std-size);
+  width: 50%;
+}
