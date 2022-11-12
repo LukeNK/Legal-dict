@@ -6,9 +6,8 @@
   --color-light: #2ec4b6ff;
   --font-std-size: 16px;
 }
-
 body {
-  padding: 50px;
+  margin: 0%;
   background-color: var(--color-bg);
   color: var(--color-fg);
   font: var(--font-std-size) Helvetica, Arial, sans-serif;
@@ -57,14 +56,13 @@ input {
   margin-bottom: 0;
   margin-left: var(--font-std-size);
 }
+
 /* Search bar */
-.search-bar {
-  margin: auto;
-}
 .search-bar button {
   padding: var(--font-std-size);
 }
 .search-bar input {
   padding: var(--font-std-size);
   width: 50%;
+  background-color: var(--color-red);
 }
