@@ -1,5 +1,9 @@
 {
     "Charter of Rights and Freedoms": {
-        "noun" : "Canadian pride Charter"
+        "noun": "Canadian pride Charter"
+    },
+    "inquisitorial system": {
+        "noun": "the trial judges are inquisitors who actively participate in fact-finding public inquiry by questioning defense lawyers, prosecutors, and witnesses.",
+        "note": "France criminal justice system is using the inquisitorial system. They could even order certain pieces of evidence to be examined if they find presentation by the defense or prosecution to be inadequate."
     }
 }

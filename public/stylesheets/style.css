@@ -5,14 +5,53 @@
   --color-red: #ff3366ff;
   --color-light: #2ec4b6ff;
   --font-std-size: 16px;
+  --navbar-size: 25vw
 }
+
 body {
-  margin: 0%;
+  margin: 0;
   background-color: var(--color-bg);
   color: var(--color-fg);
   font: var(--font-std-size) Helvetica, Arial, sans-serif;
 }
 
+nav {
+  height: 100%;
+  width: var(--navbar-size); 
+  position: fixed; 
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111; 
+  overflow-x: hidden;
+}
+nav a {
+  padding: calc(var(--font-std-size)/2);
+  text-decoration: none;
+  display: block;
+}
+nav a:hover {
+  font-size: calc(var(--font-std-size)*1.25);
+  border: 1px var(--color-theme) solid;
+  cursor: pointer;
+}
+
+main {
+  margin-left: var(--navbar-size); /* Same as the width of the sidebar */
+}
+
+/* Special devices rules */
+/* No navbar for small screens */
+@media screen and (max-width: 400px) {
+  nav {
+    display: none; 
+  }
+  main {
+    margin-left: 0;
+  }
+}
+
+/* Elements */
 a {
   color: var(--color-light);
 }
