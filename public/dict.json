@@ -1,9 +1,26 @@
 {
-    "Charter of Rights and Freedoms": {
-        "noun": "Canadian pride Charter"
+    "adversarial system": {
+        "noun": "a legal system where the two advocates represent their parties' case or position before an impartial person or group of people."
     },
     "inquisitorial system": {
         "noun": "the trial judges are inquisitors who actively participate in fact-finding public inquiry by questioning defense lawyers, prosecutors, and witnesses.",
-        "note": "France criminal justice system is using the inquisitorial system. They could even order certain pieces of evidence to be examined if they find presentation by the defense or prosecution to be inadequate."
+        "note": "France criminal justice system is using the inquisitorial system. Judges could even order certain pieces of evidence to be examined if they find presentation by the defense or prosecution to be inadequate."
+    },
+    "restitution": {
+        "noun": "the courts order the defendant to give up their gains to the claimant",
+        "note": "This is different from compensation because compensation is just paying for the loss suffered by the claimant. Meanwhile, restitution is seeking for the profit/gains that the defendant made by the wrongful act."
+    },
+    "restribution": {
+        "noun": "justice based on punishment for wrongful acts"
+    },
+    "trial by combat": {
+        "phrase": "two parties settle accusations by fighting in single combat; the winner of the fight was proclaimed to be right."
+    },
+    "trial by ordeal": {
+        "phrase": "guilt or innocence of the accused was determined by subjecting them to a painful, or at least an unpleasant, usually dangerous experience.",
+        "note": "\"judgement of God\": a procedure based on the premise that God would help the innocent by performing a miracle on their behalf."
+    },
+    "trial by oath helping": {
+        "phrase": "requiring relatives of the accused to swear on the Bible that the accused is innocent"
     }
 }
