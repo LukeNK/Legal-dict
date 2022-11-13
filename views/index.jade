@@ -3,7 +3,7 @@ extends layout
 block content
   nav
     each defs, word in dict 
-      a= word
+      a(href="#"+word)= word
 
   main
     div(class="search-bar")
@@ -11,7 +11,7 @@ block content
       button Search
       
     each defs, word in dict
-      div.definition
+      div.definition(id=word)
         h1= word 
         each def, key in defs
           if key == "note" || key == "example"
