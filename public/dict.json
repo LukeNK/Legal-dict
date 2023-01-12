@@ -10,6 +10,10 @@
         "noun": "an action wherein one jurisdiction delivers a person accused or convicted of committing a crime in another jurisdiction, over to the other's law enforcement.",
         "note": "Extradition Act rules out all of the necessary steps over the process of extradition in Canada"
     },
+    "fraud": {
+        "noun": "intentional deception to secure unfair or unlawful gain, or to deprive a victim of a legal right.",
+        "note": "This crime was defined in section 380 of the Criminal Code."
+    },
     "habeas corpus": {
         "noun": "prevent unlawful arrest by ensuring that anyone detained is brought before a court.",
         "note": "Latin for \"you must have a body\""
@@ -21,10 +25,17 @@
         "noun": "the trial judges are inquisitors who actively participate in fact-finding public inquiry by questioning defense lawyers, prosecutors, and witnesses.",
         "note": "France criminal justice system is using the inquisitorial system. Judges could even order certain pieces of evidence to be examined if they find presentation by the defense or prosecution to be inadequate."
     },
+    "jurisdiction": {
+        "noun": "the official power to make legal decisions and judgments.",
+        "note": "It also means the extent of the power to make legal decisions and judgments."
+    },
     "notwithstanding": {
         "preposition": "in sprite of, despite of.",
         "adverb": "nevertheless.",
         "example": "Notwithstanding with the evidence."
+    },
+    "onus" : {
+        "noun": "used to refer to something that is one's duty or responsibility."
     },
     "restitution": {
         "noun": "the courts order the defendant to give up their gains to the claimant.",
@@ -35,6 +46,9 @@
     },
     "Rule of Law": {
         "noun": "the principle stating that all citizens within a country accountable to the same laws and not governedd by arbitrary power."
+    },
+    "tort": {
+        "noun": "a wrongful act or an infringement of a right (other than under contract) leading to civil legal liability."
     },
     "trial by combat": {
         "phrase": "two parties settle accusations by fighting in single combat; the winner of the fight was proclaimed to be right."
