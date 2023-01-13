@@ -6,11 +6,13 @@ block content
       a(href="#"+word)= word
 
   main
-    div(class="search-bar")
-      input(type="text", placeholder="Search, but need to change text color", value="IN-PROGRESS... AAAAAAAAAAAA")
-      button Search
-    
-    h1= dictLength
+    //- div(class="search-bar")
+    //-   input(type="text", placeholder="Search, but need to change text color", value="IN-PROGRESS... AAAAAAAAAAAA")
+    //-   button Search
+    div#title
+      h1(style="margin-top: 0;") Luke's legal dictionary
+      h1 Contains #{dictLength} words
+      p Select the word on the left to scroll to that specific word
 
     each defs, word in dict
       div.definition(id=word)

@@ -38,6 +38,7 @@ nav a:hover {
 
 main {
   margin-left: var(--navbar-size); /* Same as the width of the sidebar */
+  margin-top: 0;
 }
 
 /* Special devices rules */
@@ -89,6 +90,7 @@ input {
 }
 .definition div {
   border-left: var(--font-std-size) var(--color-light) solid;
+  margin: 0;
 }
 .definition h1 {
   margin-top: 0;
@@ -109,4 +111,19 @@ input {
   padding: var(--font-std-size);
   width: 50%;
   background-color: var(--color-red);
+}
+
+/* ID */
+/* title page */
+/* #title {
+  height: 100vh;
+  background-image: url("https://d3d0lqu00lnqvz.cloudfront.net/media/media/18e234be-ab36-4e5d-aae3-beb23bb8d8b7.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+} */
+#title h1 {
+  font-size: 5rem;
+  text-align: center;
+  color: var(--color-theme);
 }
