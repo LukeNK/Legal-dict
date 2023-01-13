@@ -10,16 +10,43 @@
 "adversarial system": {
     "noun": "a legal system where the two advocates represent their parties' case or position before an impartial person or group of people."
 },
+"affinity": {
+    "noun": "relationship through marriage"
+},
 "apeal": {
     "verb": "apply to a higher court for a reversal of the decision of a lower court.",
     "noun:": "an application to apeal."
+},
+"assault": {
+    "verb": "make a physical attack on",
+    "noun": "a physical attack.",
+    "note": "This is a crime covered in section 265 of the Criminal Code"
 },
 "battery": {
     "noun": "an offensive touching or use of force on a person without the person's consent.",
     "note": "The battery crimial concept doesn't exist in Criminal Code. It is more of a term came from the States."
 },
 "bill": {
-    "noun": "proposed legislation"
+    "noun": "proposed legislation."
+},
+"codified": {
+    "noun": "officially arrange a law to be discuss."
+},
+"common law": {
+    "noun": "a system of law that relies on old court cases to decide for the current case and is common to all people.",
+    "note": "Developed in English courts around 10th century"
+},
+"conditional sentence": {
+    "noun": "a prison sentence that can be served in the community with strict terms attached.",
+    "note": "Section 718.2(e) of the Criminal Code specifically talk about this, also known as \"alternative sentencing\"."
+},
+"consent": {
+    "noun": "to agree voluntarily to an action.",
+    "note": "That person must be fully conscious, fully understand the action; in some case, they can withdraw the consent at any time."
+},
+"conspiracy": {
+    "noun": "agreed to execute an illegal act, even if that act does not actually occur.",
+    "note": "Just the agreement is enough to being convicted of a crime."
 },
 "diplomatic immunity": {
     "noun": "certain foreign government officials are recognized as having legal immunity from the jurisdiction of another country.",
@@ -48,6 +75,17 @@
     "noun": "the official power to make legal decisions and judgments.",
     "note": "It also means the extent of the power to make legal decisions and judgments."
 },
+"juvenile deliquents": {
+    "noun": "a young person who habitually commits criminal acts or offenses.",
+    "age": "Usuaully considered between 7 and 16 to 18, depends on the province.",
+    "note": "The Young Offenders Act handle all of the crimes commit by juveniles."
+},
+"liable": {
+    "adjective": "responsible by law; legally answerable."
+},
+"liability": {
+    "noun": "responsibility for a wrongful action."
+},
 "notwithstanding": {
     "preposition": "in sprite of, despite of.",
     "adverb": "nevertheless.",
@@ -56,9 +94,21 @@
 "onus" : {
     "noun": "used to refer to something that is one's duty or responsibility."
 },
+"open custody": {
+    "a sentence": "directing a youth to stay in a group home for a certain period.",
+    "note": "This is a form of alternative sentencing, but only apply for youth offender."
+},
 "perpetrator": {
     "noun": "a person who carries out a harmful, illegal, or immoral act."
 },
+"polygamy": {
+    "noun": "being married to more that one person at the same time.",
+    "note": "It is technically illegal, but there isn't any consequence except it can't be done on paper."
+},
+"prejudice": {
+    "noun": "preconceived opinion based on a stereotype."
+},
+
 "restitution": {
     "noun": "the courts order the defendant to give up their gains to the claimant.",
     "note": "This is different from compensation because compensation is just paying for the loss suffered by the claimant. Meanwhile, restitution is seeking for the profit/gains that the defendant made by the wrongful act."
@@ -68,6 +118,18 @@
 },
 "Rule of Law": {
     "noun": "the principle stating that all citizens within a country accountable to the same laws and not governedd by arbitrary power."
+},
+"scab": {
+    "noun": "a slang name for a worker who crosses a picket line to work during a strike",
+    "note": "Why? It is their right! Okay I won't judge them..."
+},
+"sheriff": {
+    "noun": "court official responsible for jury management, including relay the information, instructing the jury, guide the jury.",
+    "note": "They however must try their best not the influence jurors' decision."
+},
+"slaner": {
+    "verb": "make false and damaging statements about (someone).",
+    "noun": "the action or crime of making a false spoken statement damaging to a person's reputation."
 },
 "suspect": {
     "noun": "a person thought to be guilty of a crime or offense.",
