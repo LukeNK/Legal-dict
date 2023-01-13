@@ -68,6 +68,11 @@ button:hover {
   background-color: var(--color-red);
 }
 
+img {
+  float: right;
+  width: 100%;
+}
+
 input {
   outline: none;
   border: none;

@@ -6,7 +6,12 @@ const dict = require('../public/dict.json')
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Legal dictionary', dict: JSON.parse(fs.readFileSync('./public/dict.json', 'utf-8')) });
+  let dict = JSON.parse(fs.readFileSync('./public/dict.json', 'utf-8'));
+  res.render('index', { 
+    title: 'Legal dictionary', 
+    dict: dict,
+    dictLength: Object.keys(dict).length
+  });
 });
 
 module.exports = router;

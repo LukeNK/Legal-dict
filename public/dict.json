@@ -1,66 +1,93 @@
 {
-    "adversarial system": {
-        "noun": "a legal system where the two advocates represent their parties' case or position before an impartial person or group of people."
-    },
-    "diplomatic immunity": {
-        "phrase": "certain foreign government officials are recognized as having legal immunity from the jurisdiction of another country.",
-        "note": "This is a principle/convention rather than an actual laws. If this was violated, it may result in diplomatic problems than judicial issues."
-    },
-    "extradition": {
-        "noun": "an action wherein one jurisdiction delivers a person accused or convicted of committing a crime in another jurisdiction, over to the other's law enforcement.",
-        "note": "Extradition Act rules out all of the necessary steps over the process of extradition in Canada"
-    },
-    "fraud": {
-        "noun": "intentional deception to secure unfair or unlawful gain, or to deprive a victim of a legal right.",
-        "note": "This crime was defined in section 380 of the Criminal Code."
-    },
-    "habeas corpus": {
-        "noun": "prevent unlawful arrest by ensuring that anyone detained is brought before a court.",
-        "note": "Latin for \"you must have a body\""
-    },
-    "indictment": {
-        "noun": "a formal accusation that a person has committed a crime."
-    },
-    "inquisitorial system": {
-        "noun": "the trial judges are inquisitors who actively participate in fact-finding public inquiry by questioning defense lawyers, prosecutors, and witnesses.",
-        "note": "France criminal justice system is using the inquisitorial system. Judges could even order certain pieces of evidence to be examined if they find presentation by the defense or prosecution to be inadequate."
-    },
-    "jurisdiction": {
-        "noun": "the official power to make legal decisions and judgments.",
-        "note": "It also means the extent of the power to make legal decisions and judgments."
-    },
-    "notwithstanding": {
-        "preposition": "in sprite of, despite of.",
-        "adverb": "nevertheless.",
-        "example": "Notwithstanding with the evidence."
-    },
-    "onus" : {
-        "noun": "used to refer to something that is one's duty or responsibility."
-    },
-    "restitution": {
-        "noun": "the courts order the defendant to give up their gains to the claimant.",
-        "note": "This is different from compensation because compensation is just paying for the loss suffered by the claimant. Meanwhile, restitution is seeking for the profit/gains that the defendant made by the wrongful act."
-    },
-    "restribution": {
-        "noun": "justice based on punishment for wrongful acts."
-    },
-    "Rule of Law": {
-        "noun": "the principle stating that all citizens within a country accountable to the same laws and not governedd by arbitrary power."
-    },
-    "tort": {
-        "noun": "a wrongful act or an infringement of a right (other than under contract) leading to civil legal liability."
-    },
-    "trial by combat": {
-        "phrase": "two parties settle accusations by fighting in single combat; the winner of the fight was proclaimed to be right."
-    },
-    "trial by ordeal": {
-        "phrase": "guilt or innocence of the accused was determined by subjecting them to a painful, or at least an unpleasant, usually dangerous experience.",
-        "note": "\"judgement of God\": a procedure based on the premise that God would help the innocent by performing a miracle on their behalf."
-    },
-    "trial by oath helping": {
-        "phrase": "requiring relatives of the accused to swear on the Bible that the accused is innocent."
-    },
-    "writ": {
-        "noun": "formal written order issued by the court."
-    }
+"abetting": {
+    "img": "https://cdn.discordapp.com/attachments/836262647283843102/1048873763883728916/67242257_p0.png",
+    "gerund": "encourage the perpetrator to commit an offence."
+},
+"abrogate": {
+    "noun 1": "to abolish, to repeal",
+    "noun 2": "to evade"
+},
+"adversarial system": {
+    "noun": "a legal system where the two advocates represent their parties' case or position before an impartial person or group of people."
+},
+"apeal": {
+    "verb": "apply to a higher court for a reversal of the decision of a lower court.",
+    "noun:": "an application to apeal."
+},
+"battery": {
+    "noun": "an offensive touching or use of force on a person without the person's consent.",
+    "note": "The battery crimial concept doesn't exist in Criminal Code. It is more of a term came from the States."
+},
+"bill": {
+    "noun": "proposed legislation"
+},
+"diplomatic immunity": {
+    "noun": "certain foreign government officials are recognized as having legal immunity from the jurisdiction of another country.",
+    "note": "This is a principle/convention rather than an actual laws. If this was violated, it may result in diplomatic problems than judicial issues."
+},
+"extradition": {
+    "noun": "an action wherein one jurisdiction delivers a person accused or convicted of committing a crime in another jurisdiction, over to the other's law enforcement.",
+    "note": "Extradition Act rules out all of the necessary steps over the process of extradition in Canada"
+},
+"fraud": {
+    "noun": "intentional deception to secure unfair or unlawful gain, or to deprive a victim of a legal right.",
+    "note": "This crime was defined in section 380 of the Criminal Code."
+},
+"habeas corpus": {
+    "noun": "prevent unlawful arrest by ensuring that anyone detained is brought before a court.",
+    "note": "Latin for \"you must have a body\""
+},
+"indictment": {
+    "noun": "a formal accusation that a person has committed a crime."
+},
+"inquisitorial system": {
+    "noun": "the trial judges are inquisitors who actively participate in fact-finding public inquiry by questioning defense lawyers, prosecutors, and witnesses.",
+    "note": "France criminal justice system is using the inquisitorial system. Judges could even order certain pieces of evidence to be examined if they find presentation by the defense or prosecution to be inadequate."
+},
+"jurisdiction": {
+    "noun": "the official power to make legal decisions and judgments.",
+    "note": "It also means the extent of the power to make legal decisions and judgments."
+},
+"notwithstanding": {
+    "preposition": "in sprite of, despite of.",
+    "adverb": "nevertheless.",
+    "example": "Notwithstanding with the evidence."
+},
+"onus" : {
+    "noun": "used to refer to something that is one's duty or responsibility."
+},
+"perpetrator": {
+    "noun": "a person who carries out a harmful, illegal, or immoral act."
+},
+"restitution": {
+    "noun": "the courts order the defendant to give up their gains to the claimant.",
+    "note": "This is different from compensation because compensation is just paying for the loss suffered by the claimant. Meanwhile, restitution is seeking for the profit/gains that the defendant made by the wrongful act."
+},
+"restribution": {
+    "noun": "justice based on punishment for wrongful acts."
+},
+"Rule of Law": {
+    "noun": "the principle stating that all citizens within a country accountable to the same laws and not governedd by arbitrary power."
+},
+"suspect": {
+    "noun": "a person thought to be guilty of a crime or offense.",
+    "verb": "have an idea or impression of the existence, presence, or truth of (something) without certain proof.",
+    "note": "This is mostly what the legal system usually refer to when considering someone of a crime."
+},
+"tort": {
+    "noun": "a wrongful act or an infringement of a right (other than under contract) leading to civil legal liability."
+},
+"trial by combat": {
+    "phrase": "two parties settle accusations by fighting in single combat; the winner of the fight was proclaimed to be right."
+},
+"trial by ordeal": {
+    "phrase": "guilt or innocence of the accused was determined by subjecting them to a painful, or at least an unpleasant, usually dangerous experience.",
+    "note": "\"judgement of God\": a procedure based on the premise that God would help the innocent by performing a miracle on their behalf."
+},
+"trial by oath helping": {
+    "phrase": "requiring relatives of the accused to swear on the Bible that the accused is innocent."
+},
+"writ": {
+    "noun": "formal written order issued by the court."
+}
 }

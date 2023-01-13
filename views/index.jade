@@ -9,7 +9,9 @@ block content
     div(class="search-bar")
       input(type="text", placeholder="Search, but need to change text color", value="IN-PROGRESS... AAAAAAAAAAAA")
       button Search
-      
+    
+    h1= dictLength
+
     each defs, word in dict
       div.definition(id=word)
         h1= word 
@@ -18,7 +20,10 @@ block content
             i= key
             div(style="border-color: var(--color-red)")
               p= def
+          else if key == 'img'
+            img(src= def)
           else
             i= key 
             div
               p= def
+          
