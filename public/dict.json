@@ -7,8 +7,8 @@
     "noun 1": "to abolish, to repeal",
     "noun 2": "to evade"
 },
-"adversarial system": {
-    "noun": "a legal system where the two advocates represent their parties' case or position before an impartial person or group of people."
+"adversarial": {
+    "system": "a legal system where the two advocates represent their parties' case or position before an impartial person or group of people."
 },
 "affinity": {
     "noun": "relationship through marriage"
@@ -33,7 +33,7 @@
     "noun": "officially arrange a law to be discuss."
 },
 "common law": {
-    "noun": "a system of law that relies on old court cases to decide for the current case and is common to all people.",
+    "system": "a system of law that relies on old court cases to decide for the current case and is common to all people.",
     "note": "Developed in English courts around 10th century"
 },
 "conditional sentence": {
@@ -48,9 +48,15 @@
     "noun": "agreed to execute an illegal act, even if that act does not actually occur.",
     "note": "Just the agreement is enough to being convicted of a crime."
 },
+"culpable homicide": {
+    "crime": "A murder for wich the accused can be held legally responsible."
+},
 "diplomatic immunity": {
     "noun": "certain foreign government officials are recognized as having legal immunity from the jurisdiction of another country.",
     "note": "This is a principle/convention rather than an actual laws. If this was violated, it may result in diplomatic problems than judicial issues."
+},
+"double jeopardy": {
+    "noun": "the prosecution of a person twice for the same offense."
 },
 "extradition": {
     "noun": "an action wherein one jurisdiction delivers a person accused or convicted of committing a crime in another jurisdiction, over to the other's law enforcement.",
@@ -86,6 +92,28 @@
 "liability": {
     "noun": "responsibility for a wrongful action."
 },
+"marriage contract": {
+    "noun": "domestic contract that deals with specific aspects of the marriage, incuding in the event of divorce, separation, or death.",
+    "note": "My father usually said it also include \"voluntarily\" giving all of his money to my mom."
+},
+"marriage lisence": {
+    "noun": "a legal document authorizing two people to marry."
+},
+"mistake of fact": {
+    "pharse": "the accused made an honest mistake that led to the breaking of the law.",
+    "note": "It is a possible defence.",
+    "example": "But officer, it is a mistake of fact! I didn't see that 30 KM/H sign!"
+},
+"mistake of law": {
+    "phrase": "ignorance of the law.",
+    "note": "Ignorance is not a defence."
+},
+"mogogamy": {
+    "noun": "being married to one person."
+},
+"murder": {
+    "crime": "the intentional killing of another human being. Obviously, it is a serious crime."
+},
 "notwithstanding": {
     "preposition": "in sprite of, despite of.",
     "adverb": "nevertheless.",
@@ -108,7 +136,6 @@
 "prejudice": {
     "noun": "preconceived opinion based on a stereotype."
 },
-
 "restitution": {
     "noun": "the courts order the defendant to give up their gains to the claimant.",
     "note": "This is different from compensation because compensation is just paying for the loss suffered by the claimant. Meanwhile, restitution is seeking for the profit/gains that the defendant made by the wrongful act."
