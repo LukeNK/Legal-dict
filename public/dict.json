@@ -92,6 +92,9 @@
 "liability": {
     "noun": "responsibility for a wrongful action."
 },
+"lien": {
+    "noun": "a right to keep possession of property belonging to another person until a debt owed by that person is discharged."
+},
 "marriage contract": {
     "noun": "domestic contract that deals with specific aspects of the marriage, incuding in the event of divorce, separation, or death.",
     "note": "My father usually said it also include \"voluntarily\" giving all of his money to my mom."
@@ -136,6 +139,12 @@
 "prejudice": {
     "noun": "preconceived opinion based on a stereotype."
 },
+"private member's bill": {
+    "noun": "bill that was proposed by an MP who isn't in the cabinet."
+},
+"probation": {
+    "sentence": "allows a person to live in the community under the supervision of a parole officier."
+},
 "restitution": {
     "noun": "the courts order the defendant to give up their gains to the claimant.",
     "note": "This is different from compensation because compensation is just paying for the loss suffered by the claimant. Meanwhile, restitution is seeking for the profit/gains that the defendant made by the wrongful act."
@@ -158,10 +167,17 @@
     "verb": "make false and damaging statements about (someone).",
     "noun": "the action or crime of making a false spoken statement damaging to a person's reputation."
 },
+"surety": {
+    "noun": "a person who agrees to make a payment if the accused does not appear at the trial."
+},
 "suspect": {
     "noun": "a person thought to be guilty of a crime or offense.",
     "verb": "have an idea or impression of the existence, presence, or truth of (something) without certain proof.",
     "note": "This is mostly what the legal system usually refer to when considering someone of a crime."
+},
+"telewarrant": {
+    "noun": "a search warrant obtained by phone or fax.",
+    "note": "I can't believe this word exists!"
 },
 "tort": {
     "noun": "a wrongful act or an infringement of a right (other than under contract) leading to civil legal liability."
@@ -175,6 +191,12 @@
 },
 "trial by oath helping": {
     "phrase": "requiring relatives of the accused to swear on the Bible that the accused is innocent."
+},
+"voir dire": {
+    "noun": "a smaller scale trial in which jurors are excluded while the adminisbility of evidences is discussed."
+},
+"work release": {
+    "phrase": "conditional release out of custody to perform paid or voluntary work under supervision."
 },
 "writ": {
     "noun": "formal written order issued by the court."
